@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    text-align: center;
+    padding: 20% 0;
+}
+p{
+    font-size: 30px;
+}
+h1{
+    margin-bottom: 1%;
+}
+button{
+    font-size: 30px;
+    padding: 1%;
+    margin-top: 10px;
+}
